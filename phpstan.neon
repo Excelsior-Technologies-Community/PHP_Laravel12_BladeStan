@@ -1,0 +1,8 @@
+includes:
+    - ./vendor/tomasvotruba/bladestan/config/extension.neon
+
+parameters:
+    level: 7
+    paths:
+        - app
+        - resources/views
